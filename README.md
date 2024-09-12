@@ -6,9 +6,9 @@ I initially started solving these challenges using Tableau Prep. Tableau Prep is
 
 After getting comfortable with Tableau, I started using other tools to solve these challenges and improve my data preparation skills in SQL, Alteryx etc. 
 
-Finally, I highly recommend this challenges to anyone interested in improving their data prep skills. With that here's a link to the challenges. 
+Finally, I highly recommend this challenges to anyone interested in improving their data prep skills.
 
-
+Quick Link: [My LinkedIn Profile](https://www.linkedin.com/in/nukethota/)
 
 ## <a id="contents"></a>Contents
 * 📋 &nbsp;Challenge lists:&nbsp;&nbsp;   [2024](#2024)  &nbsp;|&nbsp;  [2023](#2023)  &nbsp;|&nbsp;  [2022](#2022)  &nbsp;|&nbsp;  [2021](#2021)  &nbsp;|&nbsp;  [2020](#2020)  &nbsp;|&nbsp;  [2019](#2019)
