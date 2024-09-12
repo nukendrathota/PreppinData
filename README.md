@@ -1,12 +1,12 @@
 # Preppin' Data Challenge
 
-[Preppin' Data Challenge](https://preppindata.blogspot.com/) is a weekly data preparation challenge intended for Tableau Prep. Although the challenges are mainly designed with Tableau Prep in mind, they are excellent opportunities to improve your data cleaning, data preparation, data wrangling and data transformation skills using other tools like SQL, Python and Alteryx. 
+[Preppin' Data Challenge](https://preppindata.blogspot.com/) is a weekly data preparation challenge intended for Tableau Prep. Although the challenges are mainly designed with Tableau Prep in mind, they are excellent opportunities for improving your data cleaning, data preparation, data wrangling and data transformation skills using other tools like SQL, Python and Alteryx. 
 
 I initially started solving these challenges using Tableau Prep. Tableau Prep is a flow based data preparation tool and it mimics SQL a lot, but without the code. Beyond these challenges, I have grown to using Tableau Prep to sometimes help me with my SQL logic.
 
 After getting comfortable with Tableau, I started using other tools to solve these challenges and improve my data preparation skills in SQL, Alteryx etc. 
 
-Finally I highly recommend this challenges to anyone interested in improving their data prep skills. WIth that here's a link to the challenges. 
+Finally, I highly recommend this challenges to anyone interested in improving their data prep skills. With that here's a link to the challenges. 
 
 
 
@@ -48,3 +48,21 @@ Here are my own solutions to the challenges.
 | [Week 26](https://preppindata.blogspot.com/2024/06/2024-week-26-customer-complaint.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2024%20Week%2026%20SuperBytes%20Complaint%20Discrepancies.tfl) | | |
 | [Week 27](https://preppindata.blogspot.com/2024/07/2024-week-27-tour-de-france-special.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2024%20Week%2027%20Tour%20de%20France.tfl) | | |
 | [Week 28](https://preppindata.blogspot.com/2024/07/2024-week-28-wimbledon-special.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2024%20Week%2028%20Wimbledon%20Champions.tfl) | | |
+
+
+## :white_check_mark: 2023 Solutions
+| Challenge | Tableau Prep | SQL | Alteryx |
+|-----------|--------------|-----|---------|
+| [Week 1](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%201%20Data%20Source%20Bank.tfl) | | |
+| [Week 2](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%202%20IBAN.tfl) | | |
+| [Week 3](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%203%20Targets%20for%20DSB.tfl) | | |
+| [Week 4](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%204%20New%20Customers.tfl) | | |
+| [Week 5](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%205%20DSB%20Ranking.tfl) | | |
+| [Week 6](https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%206%20DSB%20Customer%20Ratings.tfl) | | |
+| [Week 7](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%207%20Flagging%20Fraudulent%20Suspicions.tfl) | | |
+| [Week 8](https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%208%20Taking%20Stock.tfl) | | |
+| [Week 9](https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%209%20Customer%20Bank%20Statements.tfl) | | |
+| [Week 10](https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2024%20Week%2010%20Preppin%20for%20Pulse.tfl) | | |
+| [Week 11](https://preppindata.blogspot.com/2023/03/2023-week-11-which-customers-are-closest.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%2010%20Customer%20Bank%20Statements.tfl) | | |
+| [Week 12](https://preppindata.blogspot.com/2023/03/2023-week-12-regulatory-reporting.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%2011%20Closest%20Customers.tfl) | | |
+| [Week 13](https://preppindata.blogspot.com/2023/03/2023-week-13-rolling-stock-price-trends.html) | [:heavy_plus_sign:](https://github.com/nukendrathota/PreppinData/blob/main/Tableau%20Prep%20Solutions/2023%20Week%2013%20Rolling%20Stock%20Price%20Trends.tfl) | | |
